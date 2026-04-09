@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{B0CAEA43-412E-33EF-86FE-AE71107C37E0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DistanceCoinCollector.cs">
+    <Files>
+      <File FileName="Assets/VehicleDataReceiver.cs" Line="55" Column="1" />
+      <File FileName="Assets/StudyLogger.cs" />
+      <File FileName="Assets/StudyLoggerBootstrap.cs" />
+      <File FileName="Assets/SegwayController.cs" Line="317" Column="1" />
+      <File FileName="Assets/CoinMeta.cs" />
+      <File FileName="Assets/GameManager.cs" />
+      <File FileName="Assets/Coin.cs" />
+      <File FileName="Assets/BikeLab/Segway/Scripts/Segway.cs" Line="49" Column="47" />
+      <File FileName="Assets/VehicleSelectionManager.cs" />
+      <File FileName="Assets/TrainingStartButton.cs" />
+      <File FileName="Assets/EscooterController.cs" Line="292" Column="1" />
+      <File FileName="Assets/FootSensorInput.cs" Line="70" Column="10" />
+      <File FileName="Assets/ElectricUnicycleController.cs" Line="270" Column="39" />
+      <File FileName="Assets/OneWheelSkateboardController.cs" Line="322" Column="1" />
+      <File FileName="Assets/TransitionCoinSpawner.cs" Line="486" Column="1" />
+      <File FileName="Assets/DistanceCoinCollector.cs" Line="172" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MicroVride Short Version" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="BikeLab" expanded="True">
+                <Node name="Segway" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="DistanceCoinCollector.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="24622cdf-c632-49a3-b401-e75a35fdc104" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

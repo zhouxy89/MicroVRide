@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{618AA404-C303-DC6A-AA05-B45F03D8038B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ElectricUnicycleController.cs">
+    <Files>
+      <File FileName="Assets/FootSensorInput.cs" Line="53" Column="21" IsPinned="True" />
+      <File FileName="Assets/BikeLab/Segway/Scripts/Segway.cs" IsPinned="True" />
+      <File FileName="Assets/VehicleSelectionManager.cs" />
+      <File FileName="Assets/TransitionCoinSpawner.cs" />
+      <File FileName="Assets/Coin.cs" />
+      <File FileName="Assets/CoinLifecycleController.cs" />
+      <File FileName="Assets/StudyLogger.cs" />
+      <File FileName="Assets/HUDController.cs" />
+      <File FileName="Assets/VehicleDataReceiver.cs" />
+      <File FileName="Assets/FinishTrigger.cs" />
+      <File FileName="Assets/SegwayController.cs" />
+      <File FileName="Assets/ElectricUnicycleController.cs" Line="121" Column="18" />
+      <File FileName="Assets/OneWheelSkateboardController.cs" />
+      <File FileName="Assets/GameManager.cs" />
+      <File FileName="Assets/EscooterController.cs" />
+      <File FileName="Assets/BikeLab/Segway/Scripts/SegwayTrackController.cs" />
+      <File FileName="Library/PackageCache/com.unity.render-pipelines.core@12.1.14/Runtime/Debugging/DebugUpdater.cs" />
+      <File FileName="Assets/DistanceCoinCollector.cs" />
+      <File FileName="Assets/BlockManager.cs" />
+      <File FileName="Assets/XRCameraFollower.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="My project (6)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="BikeLab" expanded="True">
+                <Node name="Segway" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="ElectricUnicycleController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1a3cef5b-780f-48e6-8120-ccc83f930b5a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
