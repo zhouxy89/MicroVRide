@@ -17,12 +17,12 @@ public class SimulatorSceneBootstrap : MonoBehaviour
                 break;
 
             case VehicleType.Unicycle:
-                var unicycle = FindObjectOfType<UnicycleController>();
+                var unicycle = FindObjectOfType<ElectricUnicycleController>();
                 if (unicycle != null) unicycle.EnableControl(true);
                 break;
 
             case VehicleType.Skateboard:
-                var board = FindObjectOfType<OneWheelController>();
+                var board = FindObjectOfType<OneWheelSkateboardController>();
                 if (board != null) board.EnableControl(true);
                 break;
         }
