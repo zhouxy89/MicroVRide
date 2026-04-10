@@ -17,7 +17,7 @@ This prototype was designed for human factors research. It produces structured l
 7. [Vehicle controllers](#vehicle-controllers)
 8. [Coin & difficulty system](#coin--difficulty-system)
 9. [Data logging](#data-logging)
-10. [Inspector parameters you will want to tune](#inspector-parameters-you-will-want-to-tune)
+10. [Key Inspector parameters](#key-inspector-parameters)
 11. [How to extend the prototype](#how-to-extend-the-prototype)
 12. [Project setup checklist](#project-setup-checklist)
 
@@ -325,9 +325,9 @@ Each session folder is automatically named `{timestamp}_{vehicle}_{rideId}` and 
 
 ---
 
-## Inspector parameters you will want to tune
+## Key Inspector parameters
 
-These are the most likely parameters to adjust when adapting the prototype for a new study:
+These parameters control the core behaviour of the prototype. They can be adjusted if needed, but the current values were calibrated for the original study and should be changed with care:
 
 **Vehicle feel (per controller):**
 - `maxSpeed` — top speed in m/s
